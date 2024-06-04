@@ -1,16 +1,16 @@
 {
   "name": "notion-next",
   "version": "4.5.4",
-  "homepage": "https://github.com/tangly1024/NotionNext.git",
+  "homepage": "https://github.com/LeonsCd/NotionNext",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tangly1024/NotionNext.git"
+    "url": "https://github.com/LeonsCd/NotionNext"
   },
   "author": {
-    "name": "tangly",
-    "email": "mail@tangly1024.com",
-    "url": "http://tangly1024.com"
+    "name": "yang",
+    "email": "420407904@qq.com",
+    "url": "https://notion-next-e0s7m7o5n-dawns-projects-8e91a603.vercel.app/"
   },
   "scripts": {
     "dev": "next dev",
